@@ -6,7 +6,8 @@ I find my self constantly saving hundreds of browser tabs on my phone attempting
 
 step 1:
 im hoping to have it set up so that when an answer is highlighted in the form of text, wether URL or in-page-text a prompt will be displayed to the user allowing them to store the answer of there question to the question asked in an array
-
+      - clipboard manager is depricated for current android release, may try to find a work around to allow a small window to       pop up for users to paste the answer to their auestions in when they copy something 
+  
 step 2:
 create Another screen view to give the user a page to search there own questions with the answers in parallell 
 
